@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part VII: Infinite Series'
 uid: 17c6bc38-b4d6-5a98-66b5-c3e04bde807e
 videos:

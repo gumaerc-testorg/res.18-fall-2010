@@ -2,14 +2,34 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Part VII: Infinite Series'
+parent_type: SupplementalResourceSection
+related_resources_text: 'This section contains documents that are inaccessible to
+  screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Part V, VI & VII Study Guide ([PDF - 35MB](resources/mitres_18_006_study_5_6_7 "Open
+  in a new window.")){{< sup "#" >}}
+
+
+  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
+  a new window.")){{< sup "#" >}}
+
+
+  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
+  window.")){{< sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Uniform Convergence of Power Series'
 uid: ebe6c183-e0f0-f9ef-f982-1706bba099ea
 video_files:
   archive_url: http://www.archive.org/download/MITRES18_006F10/MITRES18_006F10_26_0706_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/25569ec1729b59c98cd5b9ef6eff71de_3Dz59nKUafo.vtt
+  video_captions_file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/25569ec1729b59c98cd5b9ef6eff71de_3Dz59nKUafo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/3Dz59nKUafo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/5e4f8c20a280b356f92e8bf96c12a811_3Dz59nKUafo.pdf
+  video_transcript_file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/5e4f8c20a280b356f92e8bf96c12a811_3Dz59nKUafo.pdf
 video_metadata:
   youtube_id: 3Dz59nKUafo
 ---

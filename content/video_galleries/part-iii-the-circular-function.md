@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part III: The Circular Functions'
 uid: 98fbe04a-5b98-6c3a-1030-95e746e64ad7
 videos:

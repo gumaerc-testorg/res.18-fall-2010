@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part IV: The Definite Integral'
 uid: 4c60c181-f562-9b77-abd6-1ee7c4b5834e
 videos:

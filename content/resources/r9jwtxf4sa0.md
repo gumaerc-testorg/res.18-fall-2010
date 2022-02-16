@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/5af61f060e33c29a1efe089d94db604b_r9Jwtxf4SA0.srt
+file: /media/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/5af61f060e33c29a1efe089d94db604b_r9Jwtxf4SA0.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 5af61f06-0e33-c29a-1efe-089d94db604b

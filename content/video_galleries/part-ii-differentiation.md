@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part II: Differentiation'
 uid: 1aaa37bc-4ff1-60d5-6dd4-98c6d59a8de9
 videos:
