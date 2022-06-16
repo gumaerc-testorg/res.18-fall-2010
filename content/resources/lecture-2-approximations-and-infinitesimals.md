@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Part II: Differentiation'
@@ -11,18 +13,19 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Part II Study Guide ([PDF - 29MB](resources/mitres_18_006_study_2-1 "Open in a new
-  window.")){{< sup "#" >}}
+  Part II Study Guide ([PDF - 29MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_study_2-1)){{<
+  sup "#" >}}
 
 
-  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
-  a new window.")){{< sup "#" >}}
+  Supplementary Notes ([PDF - 46MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_supp_notes-1)){{<
+  sup "#" >}}
 
 
-  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
-  window.")){{< sup "#" >}}'
+  Blackboard Photos ([PDF - 8MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_blackboard-1)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Approximations and Infinitesimals'
 uid: 1a99842b-435a-3bac-1fe5-97c78f08fef7
 video_files:
@@ -37,3 +40,6 @@ video_metadata:
 **Topics covered:** Approximating delta y by f(x) delta x; discussion of that difference between delta y and f'(x) delta x; introduction to the chain rule.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Part IV: The Definite Integral'
@@ -11,18 +13,19 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Part III & IV Study Guide ([PDF - 23MB](resources/mitres_18_006_study_3_4 "Open
-  in a new window.")){{< sup "#" >}}
+  Part III & IV Study Guide ([PDF - 23MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_study_3_4)){{<
+  sup "#" >}}
 
 
-  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
-  a new window.")){{< sup "#" >}}
+  Supplementary Notes ([PDF - 46MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_supp_notes-1)){{<
+  sup "#" >}}
 
 
-  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
-  window.")){{< sup "#" >}}'
+  Blackboard Photos ([PDF - 8MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_blackboard-1)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Three-Dimensional Area'
 uid: 4563e6cc-dc13-203c-0c89-bf6e2e75fd41
 video_files:
@@ -37,3 +40,6 @@ video_metadata:
 **Topics covered:** Extending the axioms of area to volume; some applications; the method of cylindrical shells.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

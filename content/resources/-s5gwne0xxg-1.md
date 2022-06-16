@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/a8412d588934577fa55c7bfe6721d378_-S5GwNe0xXg.pdf
+file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/a8412d588934577fa55c7bfe6721d378_-S5GwNe0xXg.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

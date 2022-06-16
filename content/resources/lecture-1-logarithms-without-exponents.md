@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Part V: Transcendental Functions'
@@ -11,18 +13,19 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Part V, VI & VII Study Guide ([PDF - 35MB](resources/mitres_18_006_study_5_6_7 "Open
-  in a new window.")){{< sup "#" >}}
+  Part V, VI & VII Study Guide ([PDF - 35MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_study_5_6_7)){{<
+  sup "#" >}}
 
 
-  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
-  a new window.")){{< sup "#" >}}
+  Supplementary Notes ([PDF - 46MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_supp_notes-1)){{<
+  sup "#" >}}
 
 
-  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
-  window.")){{< sup "#" >}}'
+  Blackboard Photos ([PDF - 8MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_blackboard-1)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Logarithms without Exponents'
 uid: 42ba1d7e-deb2-786d-a62b-c52d4d40d6a9
 video_files:
@@ -37,3 +40,6 @@ video_metadata:
 **Topics covered:** The concept of the natural logarithm; the notion of the rate of change being proportional to the amount opresent; the general concept of a logarithmic function; ln x in terms of differential and integral calculus; the meaning of the number e as the base of the natural logarithms.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

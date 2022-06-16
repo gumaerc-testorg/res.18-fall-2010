@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Part VI: More Integration Techniques'
@@ -11,18 +13,19 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Part V, VI & VII Study Guide ([PDF - 35MB](resources/mitres_18_006_study_5_6_7 "Open
-  in a new window.")){{< sup "#" >}}
+  Part V, VI & VII Study Guide ([PDF - 35MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_study_5_6_7)){{<
+  sup "#" >}}
 
 
-  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
-  a new window.")){{< sup "#" >}}
+  Supplementary Notes ([PDF - 46MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_supp_notes-1)){{<
+  sup "#" >}}
 
 
-  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
-  window.")){{< sup "#" >}}'
+  Blackboard Photos ([PDF - 8MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_blackboard-1)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Some Basic Recipes'
 uid: b1d59a3c-5439-b971-c33e-73f2a1b0009a
 video_files:
@@ -37,3 +40,6 @@ video_metadata:
 **Topics covered:** A review and extension of previous results for finding f(x) knowing f'(x); paricular emphasis on the case where f'(x) involves the sum and/or difference of two squares; completing the square.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

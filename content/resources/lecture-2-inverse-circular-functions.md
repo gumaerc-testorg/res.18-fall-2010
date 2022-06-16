@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Part III: The Circular Functions'
@@ -11,18 +13,19 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Part III & IV Study Guide ([PDF - 23MB](resources/mitres_18_006_study_3_4 "Open
-  in a new window.")){{< sup "#" >}}
+  Part III & IV Study Guide ([PDF - 23MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_study_3_4)){{<
+  sup "#" >}}
 
 
-  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
-  a new window.")){{< sup "#" >}}
+  Supplementary Notes ([PDF - 46MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_supp_notes-1)){{<
+  sup "#" >}}
 
 
-  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
-  window.")){{< sup "#" >}}'
+  Blackboard Photos ([PDF - 8MB](/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/resources/mitres_18_006_blackboard-1)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Inverse Circular Functions'
 uid: 6c50674d-4619-6137-f49b-3d39797e55b6
 video_files:
@@ -37,3 +40,6 @@ video_metadata:
 **Topics covered:** Meaning of arc sin x in terms of the sine function; the derivative of arc sin x in terms of the derivative of sin x; some applications.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+
