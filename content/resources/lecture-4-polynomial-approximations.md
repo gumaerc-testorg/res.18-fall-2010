@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** Using an nth degree polynomial to approximate a function f(x); how to choose the coefficients; power series; Taylor's Remainder Theorem; expressing functions in terms of power series.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

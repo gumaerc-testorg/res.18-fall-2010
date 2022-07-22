@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** The concept of the natural logarithm; the notion of the rate of change being proportional to the amount opresent; the general concept of a logarithmic function; ln x in terms of differential and integral calculus; the meaning of the number e as the base of the natural logarithms.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

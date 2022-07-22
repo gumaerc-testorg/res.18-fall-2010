@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -446,6 +447,4 @@ video_metadata:
 **Topics covered:** Notations; concepts of onto and one-to-one; the arithmetic of functions of a real variable; intervals and deleted neighborhoods; absolute values; composition of functions
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

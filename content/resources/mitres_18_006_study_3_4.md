@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/167a3a84180ed378ea3b9ead436c1dc9_MITRES_18_006_study_3_4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Part III: The Circular Functions'
 parent_type: SupplementalResourceSection

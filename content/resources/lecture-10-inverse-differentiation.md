@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** The "opposite" of differentiation; trying to find f(x) knowing f'(x); some examples; some formulas; notation.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

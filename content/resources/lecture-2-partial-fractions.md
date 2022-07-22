@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** The concept of partial fractions; finding f(x) when f'(x) is the quotient of two polynomials; some notes about identities; application of partial fractions to the case where f is of the form f(sinx, cos x).
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

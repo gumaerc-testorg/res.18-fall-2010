@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** Discussion of how infinity differs from "very large"; some sublte and not-so-subtle consequences of the difference; the case against intuition; motivating infinite series in terms of finding area as a limit.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

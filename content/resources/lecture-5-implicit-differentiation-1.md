@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** Finding the derivative when the functional relationship is implied; application to the case of x to the n where n is a rational number; the use of implicit differentiation in the study of related rates.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

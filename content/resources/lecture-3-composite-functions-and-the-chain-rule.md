@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** Composition of functions; a graphical interpretation; applications to parametric equations; using the chain rule to extend the concept of finding derivatives.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

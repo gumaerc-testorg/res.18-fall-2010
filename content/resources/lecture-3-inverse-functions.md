@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** The concept of an inverse function; graphical interpretation; single-valued and multivalued functions; branches of functions.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

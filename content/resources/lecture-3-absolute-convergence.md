@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ video_metadata:
 **Topics covered:** Non-absolute convergence; conditional and absolute convergence; a series converging when each of its negative terms is replaced by the absolute value of that term; geometric interpretation.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

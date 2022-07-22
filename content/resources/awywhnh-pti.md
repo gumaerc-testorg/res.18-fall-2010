@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/5aa4a19af6c5fe8ff65e5869173dad6e_aWYwHnH-ptI.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
