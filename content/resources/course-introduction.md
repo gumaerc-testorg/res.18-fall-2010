@@ -48,5 +48,3 @@ Professor Gross introduces the course consisting of:
 
 Thomas, George B. _Calculus and Analytic Geometry._ Reading, Mass: Addison-Wesley, 1968. ISBN: 9780201075250
 
-
-
