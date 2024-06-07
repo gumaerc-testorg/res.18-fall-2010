@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/c9d22d9bdc27d88b4ad2a068d523582b_zKtYCGbCfSc.pdf
+file_size: 62288
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
