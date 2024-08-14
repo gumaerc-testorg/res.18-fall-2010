@@ -26,9 +26,10 @@
     "website": "res-18-006-calculus-revisited-single-variable-calculus-fall-2010"
   },
   "course_title": "Calculus Revisited: Single Variable Calculus",
+  "hide_download": false,
   "course_description": "Calculus Revisited is a series of videos and related resources that covers the materials normally found in a freshman-level introductory calculus course. The series was first released in 1970 as a way for people to review the essentials of calculus. It is equally valuable for students who are learning calculus for the first time.\n\nAbout the Instructor\n\nHerb Gross has taught math as senior lecturer at MIT and was the founding math department chair at Bunker Hill Community College. He is the developer of the [Mathematics As A Second Language](http://www.mathasasecondlanguage.org/) website, providing arithmetic and algebra materials to elementary and middle school teachers.\n\nAcknowledgements\n\nFunding for this resource was provided by the [Gabriella and Paul Rosenbaum Foundation](http://www.rosenbaum-foundation.org/).\n\n### Other Resources by Herb Gross\n\n[Calculus Revisited: Multivariable Calculus](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/)\n\n[Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/)",
   "department_numbers": [
-    "RES"
+    "18"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.18-006",
