@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/c4a8177d582539e22a74b5768bd39dc4_rXOGLlKuvzU.srt
+file: /courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/c4a8177d582539e22a74b5768bd39dc4_rXOGLlKuvzU.srt
 file_size: 55580
 file_type: application/x-subrip
 learning_resource_types: []
