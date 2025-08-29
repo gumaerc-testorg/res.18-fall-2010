@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/mitres_18_006_supp_notes.pdf
+file: /ol-ocw-studio-app/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/mitres_18_006_supp_notes.pdf
 file_size: 45936107
 file_type: application/pdf
 image_metadata:
